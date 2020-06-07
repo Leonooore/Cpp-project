@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Employee">
+    <Position X="6.25" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAQAEAAAAFIAQICAAEAAAABgAAAAACBAA=</HashCode>
+      <FileName>Sotrudniki.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkTime">
+    <Position X="4" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAQAiBAAQAAAAEAcQAAAAQgiAAAAAJAgAERgAgAA=</HashCode>
+      <FileName>WorkTime.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeManager">
+    <Position X="8.5" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>RAADAAADGBAgAAAAgIAIAAAABABAkEAAAAAAAAkAECA=</HashCode>
+      <FileName>SotrudnikManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileManager">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>FileManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="10.75" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAABAAAAAAAAAAAIAAAABAAAAAAAAAA=</HashCode>
+      <FileName>menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
