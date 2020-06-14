@@ -3,7 +3,7 @@ Course work in the discipline "Algorithmization and programming"
 
 Feb 2019 – May 2019
 
-Project descriptionC ++ console application: Employee time tracking system.
+C ++ console application: Employee time tracking system.
 
 About:
 
